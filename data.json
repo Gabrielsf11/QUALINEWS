@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-08-18T00:00:00Z",
+  "categories": [
+    { "id": "normas", "label": "Normas e regulação", "ok": true, "items": [] },
+    { "id": "petroleo", "label": "Petróleo", "ok": true, "items": [] },
+    { "id": "claros", "label": "Combustíveis claros", "ok": true, "items": [] },
+    { "id": "escuros", "label": "Produtos escuros e especiais", "ok": true, "items": [] },
+    { "id": "mercado", "label": "Mercado e preços", "ok": true, "items": [] },
+    { "id": "setor", "label": "Setor e negócios", "ok": true, "items": [] }
+  ]
+}
