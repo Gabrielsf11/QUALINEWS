@@ -1,11 +1,170 @@
 {
-  "updated_at": "2026-08-18T00:00:00Z",
+  "updated_at": "2026-08-18T17:26:45.877300Z",
   "categories": [
-    { "id": "normas", "label": "Normas e regulação", "ok": true, "items": [] },
-    { "id": "petroleo", "label": "Petróleo", "ok": true, "items": [] },
-    { "id": "claros", "label": "Combustíveis claros", "ok": true, "items": [] },
-    { "id": "escuros", "label": "Produtos escuros e especiais", "ok": true, "items": [] },
-    { "id": "mercado", "label": "Mercado e preços", "ok": true, "items": [] },
-    { "id": "setor", "label": "Setor e negócios", "ok": true, "items": [] }
+    {
+      "id": "normas",
+      "label": "Normas e regulação",
+      "ok": true,
+      "items": []
+    },
+    {
+      "id": "petroleo",
+      "label": "Petróleo",
+      "ok": true,
+      "items": []
+    },
+    {
+      "id": "claros",
+      "label": "Combustíveis claros",
+      "ok": true,
+      "items": [
+        {
+          "title": "Preço de passagens aéreas pode subir até 20% em razão do reajuste do querosene de aviação - Sou Patos",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmgyZTN3MlJTZ3ZnNjdvVE9zRHgxM1VEMjFpMVdTMDJBM05fOUNNWUluYkpPb1JxS3hIUXBXMU1LUW5JR1lNT194RFBQVk0tV2VjZG1zbXowMVcxeUlIbmxxbldCb283OENqRzhGVGZpUW5uYkpuNXdmOXI0bG9US3NBUUhsLTdxdE05d3BzdF9jT1pocXMza29SdkhDMXI2QVh1X3AyMUlXa2dzRnNlcjljRHlCQmNCNzk5cmh6N0lFN2ZGX0RHdGpBaHpmc2J4WVpTaFBrTS01aE5TYVlHcF93?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 21:56:05 GMT",
+          "source": "Sou Patos"
+        },
+        {
+          "title": "Querosene de aviação é elevado em 1,9% nas refinarias - Agência eixos",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTRRMkc4R1ZwMjJXVUNqbVFQMmFjVEhpY1F6Q1o5ZGtfdGJiZDBOUXA2Y1pBTXpqOG5teUwyZFFyWVBXX3BiR0h3dEdCdjctOFdyc0lMQUpOcEdlSl9OQVZKZE5vX1JZTmFKZEwwLTJXYUZRd09VekxMY1FfbmFFTS1DbHRkOW1FN1ZnMGNNWEFLb01DZEQtQV9EX0Z6aklu?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "source": "Agência eixos"
+        },
+        {
+          "title": "Eve e RV Connex assinam memorando para avançar na mobilidade aérea na Tailândia - Mercado&Consumo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObldyVWVDa2lTUWNTXzVseEs2WVhVMW9SbkgzSTM0ZVpaS1VFY2thOWMyWEgwRWxKV1JBNUJmV080T3BuRUdfai1nSldRdFpxWVctT2ptUjYwWG52el9iaTFyTVh4TGI4N01oRERDQmRaVWtyWm0tc2hvNWhNSWJwRldJOHZhYmhrLXZoa0owV3dsNm1DeHV0SmducEVmUGhjVjBnbVJ2SlNsRVAxLTI0U3p5YmxhTUtQOGF6TWh4MUZyenl5enp2dGc1SzJWOG9vLUg4TzdFUETSAd4BQVVfeXFMTnRNQWRCRTBkRkhSLUNZb2ZLMVVCN012RzZZelF2dDB4M2ZUUDlVcVV5WnJOTGsyTXJTcE1IaklZSFhGTk9DYThxa0JNei05S09yQmQ2c3BFRWZvLWVBWWtCbUNtdEFfZm1IcWlsOGpIUnBiYmljV3VHMVdjbDNjYjNWS0FkNUJSRG5SdFN4SlBVX1hwOHNnYnlMaU1wNjdRX1pPc2RjYWhMakwyMl92QU1ZZnF5WnZLWUZGcVByTV9Zb3NGcy1fVWU5M1M2NnYxeDN5TTd5ZmxlNXBsMF93?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 14:25:26 GMT",
+          "source": "Mercado&Consumo"
+        },
+        {
+          "title": "Petrobras aumenta querosene de aviação em 1,9% - Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXVpa3p5V0U0a0ttbHl4SzdOMWFDNGpYU2I5eWxjaW1mRl9xaHdvT1ZoOHVQTVJXUF9QVjh5THpXU1JPVlU1aTc2OVltXzl6bFRIRi16YlVwZTAxUkozdE0wZEtqd0g1bkZjNFdkN3dzdHBhVlpxMW1QVmhCTERkcFBsYWVoMDJXTjBua001S1ZhLV9sTi1DamdRTWpaV1U5V3VNcXVyX0xhS2pjd1HSAbwBQVVfeXFMT21TVkItQzRzUm5TMlVSNDZKSlhzTjAtX0JNWjFGZENBVWNPdGVsTm5idERvNDlQYl9hTUdKOWY3SDI1NElQeURMT1BxTEw3VlpjZGZ4cGVrbGhSdndERHhnWU5CLVhEQmpWdVZ1WklPMG0tcnFLRkRjMENTLVg2UElUbEZaWEJnb3NmRGVLZjdUcElKY3lWNFc1VVYzaDJWV2dKSEJ4VkhxMlhWXzJPUUFfcXhzYzBwZEg1aVI?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "source": "Valor Econômico"
+        },
+        {
+          "title": "Petrobras eleva querosene de aviação em 1,9% nas refinarias - infomoney.com.br",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTlvdlE0bXFVZE1XSXdHMEJON0U2STQ5eUtpVWFKZ2ZCVG91VTBWcWZad1BTUGtLNGJSakF4eV8tdUt0V2hsUXRqWlZBRTQ5dE5fWjgwQkZQbzI4dVJ5RjVoSXhwcjZ2ZWZrbUpZWGJCdWJjTHNiVVhJRUVwU1RUZVg2Q0ppREdYdjRiVGJhWkd3YUJkNEZYM1hxUGTSAaIBQVVfeXFMUGw4R2JfSzlJTGpzRmtNZmpkbW4tSGpMQ3B5LWl2cGs5dmhsSDdseEgxN3lrYW51NkVyUU92NWpOQUd2Y1pqN2UybVV3em9FODZReGdRRzZ6b2ZoREFsYlpsU3dmbGF0LV9MNW4ta3pJM185aGNKTGNWOUZPTGE0alA3a2RaT2I3ZHBTTDZNMWw1YnJxWG9xaU8zVU9TbTFLcGZR?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "source": "infomoney.com.br"
+        },
+        {
+          "title": "Querosene de aviação sobe quase 50% e pressiona setor aéreo no Brasil - diariodoturismo.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakloU21sTjBia2d1UUV6NTAxVHdaNlRrR1pXdWJKYnJVRXkzdUZFTXViVlBJT1JKNzNfX1gtazB3UHVWakQydE5EaVEtekhVQmlDaDFDLUhhQ2R3QWRTSm9kNm9tYnBvMGQxRzlOVnh3LXM4NDNwQlYtWHFISzRUWE1zUlJtRDdhSm5OY244a05pcHpXS2laT0ZXODdRLUxhU2c?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:33:00 GMT",
+          "source": "diariodoturismo.com.br"
+        },
+        {
+          "title": "Querosene de aviação dispara quase 50% no Brasil e força corte de até 63% nas compras empresariais - Times Brasil | CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWJncWllOVJhU0ZlSVNWeF84ejlTa2tRVDFzem9HT3hDNFc2LTUwaEEyV0p1MzI0cnFPTFYwTFRTcFlnX05DN19nRE9uMW5hWjNpOEpTc2w3R05VX1gtZlBuLXF6eUZSQXZYblFvN09hajFDdnBOVGFmamlKaHZGV3ZGMU1FQmttQThIRlAzdTd2Qi0xSlljY3BaaUhPZFFCZWxvaUNsVXJWUUZlNUZCUWw1TWhQdE42VEhKVW5teWJrWEd3a0xXSFVjZw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT",
+          "source": "Times Brasil | CNBC"
+        },
+        {
+          "title": "Guerra no Irã faz preço do querosene de aviação disparar no Brasil - Correio Braziliense",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXFhQkNWUWJLcW9FVUxmWndyTFZyY09MN25CRGVQYU1TWHJTMnZBaEI3RDAwYzBha25IU1lTazVpOE1BS1YyQXlYcVF2TEhxMWFpNGI1bWZhQVJaajJsMnpubXI2YTVDRUo4c29tR0V2WmItU2dicmRRQTJMM09ybHlFWXNyQlhtN3QxNDBxQkFWZXpTaExRTmo2RnBrQ2praVhRb3RHcXVzSi1TVExuZVZOMlFDMVRKWW9CcWg1WE0yWkV1QjdTQzcyMThmZmfSAdQBQVVfeXFMT0I1Wm53dFQwenpFQVpRdXAwY05YdWEzd19zZXFsam5XYmM4bnRGalZoMWZ1ZE9CUkZHWjlNWXVGVWZkdV8xbU9FLVhualRYQ0Z0TmtlTnNfd0xnSXU0d1VaRWt2ZFVZdlZnMmpDUWJrU0xjTnBHd2ZXSl9FVnpyUE1ZQ2VhMVV3dzNBUEp2c3FPenZCUktkdTlKNjRKNmRGc0h5MmhEZHZHMjdUeGZMRWRyell2czc1T2ZhbFNwYjVqS1d6bC1NSEYxazV5RU1ET1JUUUE?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
+          "source": "Correio Braziliense"
+        },
+        {
+          "title": "Petrobras eleva preço do querosene de aviação em 1,9% nas refinarias - Exame",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkJpWVNWSUJzaGtjQUNBcTBvOEJHTTdUNWVzWU9BMkxWQ2lNVC02OGdJWGNVYk5DOVQ0NDVlelAyS0U2TGxnZGctQWlIR2hGQU1QVWxTUmJxT0JLb2oxWnQwa2ViTThNVHFUUFJrOGJtTDVvaUw3Sko4X25yVHMwRnFWd3NjLWRmd1doZ2NZNE5HWlhyVUVWdkMyZWVFZnJVUkxn?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "source": "Exame"
+        },
+        {
+          "title": "Querosene de aviação (QAV) é elevado em 1,9% nas refinarias - Money Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTJNcVZ0aHlaVDVyZThRbjFKOXZ1dk1jdFBUUVhsY3BMSFVJWVlyd1V1ei1wSGxkZnctemxFS2ZBbC00MlotZ1Vtd1Bvbk9TX1JfaTdISGJadnExRnJ4bWY3Zk5WSDFGTTlkVnNlOGZCbmlMNGI0NV94c2phTjlXMlNiSHdlU29JX25qUGJrZ0RUajQ3Z0E?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "source": "Money Times"
+        }
+      ]
+    },
+    {
+      "id": "escuros",
+      "label": "Produtos escuros e especiais",
+      "ok": true,
+      "items": [
+        {
+          "title": "Petrobras terá produção de lubrificantes a base de óleo usado e diesel R10, diz diretor - Agência iNFRA",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmdUWHJzUEJMb0FhQ2h3c2JybHBOZlZvSTRuaHdDZ2o2ZkpRS2VUZkxMSUVjTEhoWlRXZ3phZ0F0Qm5qd19pQ1NQSVVyOTZwVmNULXVTTEhuZ2lrMDBtWkNUN0N4Q3dRcldUcWlEZ2ppTloyZk1QM3Frc2J1QUNTbjhHMXJnQWtoa0VFeE51bDhaQjJxMVBxWFZCVWhFdkNXNWtsc0I0VF8yMjZ6NHZ2QVRBX2pFaVhJ?oc=5",
+          "pubDate": "Fri, 04 Jul 2025 07:00:00 GMT",
+          "source": "Agência iNFRA"
+        }
+      ]
+    },
+    {
+      "id": "mercado",
+      "label": "Mercado e preços",
+      "ok": true,
+      "items": [
+        {
+          "title": "Preço do petróleo Brent volta a bater US$ 100 com guerra no Irã - Poder360",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXNyTk5pQkhjeEJFN0FKNTRCLVlSM19rWFl2NTk4Y1BjRl9nV29PN0VPNXAydXdha3JMNk1NZjZBMldoNlc1MUxUQXFReUw2Rm9RWklaZHZyY0JPZzVtVXlOQTNzWndiYmZoQ3Q2bzA5ZDAtTklCQ2xFZXc2NkxqSnpBTDVrWEwycXhYbGlpcG5oR2h2TU9fWnhtM0xxaW1RX2tnZ3hCOWRyeUQ2WUpERw?oc=5",
+          "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "source": "Poder360"
+        },
+        {
+          "title": "Preço do petróleo Brent registra alta oscilação com tensões geopolíticas - band.com.br",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0JPWmN6cVNpT21MeURlUERFU1U1c0pjc3RmektPcjlQTmV5YjNDd2h5azlBR1IwaFRNaWpBZGNRZHZFSXE2T0tPY1g2SUh1RGZyZTRTeFAzcmlWaXF2cWZaWEYxcnNobTNlRnF5TFNXclFWak82ZUZkNzQxZVU5dXA0RmNPOU1UN3dYUW5DcFpNOGFzeUZhaGphdElCbDAwa1FnRWJDQi1XZVFjUkZUN3JnY3d5TW00amNGZGhETHZlMFFNNGc?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "source": "band.com.br"
+        },
+        {
+          "title": "Preço do petróleo Brent ultrapassa os US$ 105 após discurso de Trump - estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3NoZ2ZyR2pFNTlVa0RUcU02UlpaUDRVcHlpTl9RT2hIN3RIT3JuVG1UUHV4OTdCbXNQQ2ZmWFJ5Y2xhRW9hOVRjbk0wQlN2c2dpVXJrcjIwMTJoSTM2VEt2cEJNVFMxZl9VUWpJdnlzaGphVTZucGFYTGNNdTlhTmpSNDRycS1iU1I3SlgwM1pCRHNkY19icHo1Q09RNVBMbXpIQkYxVWY2OW1R0gGyAUFVX3lxTE9iMFQ4a29LV3IzRW43TUFFejE4RW9uRXFOOElOcXdrcFF5bEk3dHM5emQwQ25ZV3BZUTktcy1PRjdQNUswaURZdF9aZlIyRDQ3d3RIb0E5bUQwWHFRYzdiWGltTWR6QlJvbTM3MjY2T05hVVN4MjF6b0ZsdWtYZjN5NUhtWEZqdTlhNTh1ZFd2YWlVaWh3bFotb01ZY202akZmT0Z2S0NsbWJtT3lnNnJkQVE?oc=5",
+          "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+          "source": "estadao.com.br"
+        },
+        {
+          "title": "Por que o preço do petróleo Brent não disparou? Yardeni explica - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVktd2dTT1BDSU9Ld2ZtZWFTQllmOFF6WUhOOHhNNXVfMkJwVXhYbklGV09PdkNwaXlmcWhLZzVSUjhES3A2NklwWkpPQTUxZ0lNVkJUQXZzVklSRXhCODR5NEZzOVlFTm1uM0lGVjdDaWEyNE1oTmVya0M1TVI5Z2NhVHlsSWh0dWVON1N6UHp0cEZrQlUyZHk0Tl83U0xjTFVOajJZRDNNZlZBMktBVDEzazMtVnEy?oc=5",
+          "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+          "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos"
+        },
+        {
+          "title": "J.P. Morgan reduz previsão para o preço do petróleo Brent no segundo semestre de 2026 - br.tradingview.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yYVd1Ul9aOXNyUFdmT3NQNkdOcGl2bm5oNlFGOFBjRHRVTTY1eTdKT01EVHpELXhnaVNHVHk4TkRJWUxaNEdHeVdMTVp6OTlNRDFrdS1vOG5JLWdrMEtBR1p2QklTb25sZGotV1NscUx6R3NCS1VZ?oc=5",
+          "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+          "source": "br.tradingview.com"
+        },
+        {
+          "title": "Preço do petróleo Brent sobe 2% após queda de 7% na sessão anterior - kondzilla.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFhVcDBLcjNNeHpMZm9ZWEIzTHlnQzZ3V2NjazRkS3ZDeHN1cHRGTm5rR0tzU29kYy1EU1Z1dFhYbWZyOHFGQ19rclBkZmxucFF2OVdpMHhxR21VSFJaaXFaVXduX1BBNHpLUHZPXzdSTGpiVVBHY2NMZEJxSkZtNEljNkNrQTMzMWFYZFphWHY5Zw?oc=5",
+          "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+          "source": "kondzilla.com"
+        },
+        {
+          "title": "Preço do petróleo Brent supera os 119 dólares, seu nível mais alto desde 2022 - UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnlWckFIMW82dUdHcHQ1LXBkWlRJRUxmX2R3VDFjQkdaZ3dzZVY2RzhVS1Vzc3VmN2NieXZKb1J3SnpWV3BRVS1oSkp2M3c1LUVacEdJcjA4V0d6TWluWDBnTVJzMTZ2UVBfcUR5SVZzVVlxUlJRemF0VXJyYVN3SkRiM255a28weGRLVS1TWDB0NHRrYkx3b2ZCZWZQSllLWl9sa0dUMVRIMTFYTlVwZmlJbXllbnlHZFZVS2RBNWpROFp6X3dmNEpkUVd2UVNoNGZEU2EwRQ?oc=5",
+          "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+          "source": "UOL Notícias"
+        },
+        {
+          "title": "Preço do petróleo Brent apresenta o menor valor em três meses - TVBV ONLINE",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JNazBUYWRWX2J3UzFHSElJZl9wUGVSR0ZncHk5VnU3cnhXZGdyZlVsdkUxeXIwdERra24yTVRFbV9BdGFCTFp0NzRiUXBqU0pkS0xDMGhMRXo2NWU5OUhNOU9uWm95OEFBQ1U4Q0pCV0lkQW8yV3Y2QnJIek4tcUZwdFZkRjdQazhKblQyQQ?oc=5",
+          "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+          "source": "TVBV ONLINE"
+        },
+        {
+          "title": "Preço do petróleo Brent supera 87,5 dólares com intensificação dos ataques - RTP",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVNHMmNiZjcxYXdYaW1zenFJLThIb3g5OEFwMUdkQjV4ckxKa0VqTEpDakFHOXoyMEZJeExlQ2lRZmZOekZkQTJVUl9WQmpEeG85SWw0c0pyVUZtUDZleW50b3BRMkZaNFZ0RllFeWlBZk9ZLXc4al9UOGpSOGdpQ1lyaHBJMlBOSTFfdDhaaE5GR2ZvamVqdFU0UUtFUnZsenZKbjB1SU9LVXh6QnVhSUxrckhET1o4X2ZXc1BXWk1XOXp2bkNEOUY0MXZBdDQ?oc=5",
+          "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "RTP"
+        },
+        {
+          "title": "Preço do petróleo Brent sobe 5% em meio a temores de escalada no Oriente Médio - Terra",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQnM0a3FjRl82cmV3QzRaYmJfQVBIaWFBN2tWTXNQQ0N1VmtiZDc4MDlKdUdvRExGUkItN0VOQmVOYkxBeEdjdmxlaV9EUE5HSmotX2RiNFByQkZ1RXlmbURfb2NOUzJqbWk4M29jSzMtQW5kRTd3dFN3eUdGcHlnUWp4dHZreWRfaERqTUlBd2dVSmNONTRSeHNsU0lyMVRuMFkzX0M2ZVJSS2ZWcXYzcVI1Y0p4WE1ZSEVUMlRzNGNUcTJyTXJFanVKbHRQV1pBcEF4Q0k3aDV4TFRjWnNLYmc5ZHA0YnFvd3hqUExR?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "source": "Terra"
+        }
+      ]
+    },
+    {
+      "id": "setor",
+      "label": "Setor e negócios",
+      "ok": true,
+      "items": []
+    }
   ]
 }
